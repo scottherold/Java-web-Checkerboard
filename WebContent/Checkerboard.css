@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.redsquare {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	display: inline-block;
+}
+
+.bluesquare {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	display: inline-block;
+}
